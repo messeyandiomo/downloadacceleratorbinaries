@@ -1,0 +1,11 @@
+[Unit]
+Description=download accelerator server
+After=gdm.service
+Requires=gdm.service
+
+[Service]
+Environment=DISPLAY=:0
+WorkingDirectory=/usr/share/downloadaccelerator
+ExecStart=downloadaccelerator server
+
+[Install]

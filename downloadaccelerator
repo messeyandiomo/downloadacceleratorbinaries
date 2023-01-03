@@ -1,0 +1,10 @@
+#!/bin/sh
+
+cd /usr/share/downloadaccelerator
+
+if [ -z $1 ]
+then
+java -jar /usr/share/downloadaccelerator/downloadaccelerator.jar client
+else
+java -jar /usr/share/downloadaccelerator/downloadaccelerator.jar server
+fi
