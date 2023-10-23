@@ -2,7 +2,7 @@
 
 
 PACKAGE_NAME="downloadaccelerator"
-PACKAGE_VERSION="3.1"
+PACKAGE_VERSION="3.2"
 SOURCE_DIR=$PWD
 TEMP_DIR="/tmp"
 

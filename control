@@ -14,4 +14,4 @@ Description: A free tool to download files.
  have installed its extension.
  This version adds the possibility to download all youtube type of files since
  its firefox add-ons and it is also faster.
-Depends: openjdk-11-jre, ffmpeg
+Depends: openjdk-17-jre, ffmpeg

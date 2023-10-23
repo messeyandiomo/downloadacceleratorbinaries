@@ -1,6 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
-Version=3.1
+Version=3.2
 Name=Download Accelerator Server
 Comment=files download accelerator tool
 Exec=downloadaccelerator server
